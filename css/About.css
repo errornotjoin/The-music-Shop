@@ -1,0 +1,22 @@
+.Contact-details
+{
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+   
+    text-align: center;
+    
+}
+.Address
+{
+    background-color: cadetblue;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+}
+.Contact-details img 
+{
+
+    max-width: 100%;
+}
+
